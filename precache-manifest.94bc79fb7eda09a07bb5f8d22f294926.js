@@ -224,8 +224,8 @@ self.__precacheManifest = [
     "url": "/img/hammer_troll.e9ae90fc.png"
   },
   {
-    "revision": "b9a40cb40c4635a772ac",
-    "url": "/js/app.965da45a.js"
+    "revision": "360ea324c7a23158b175",
+    "url": "/js/app.f26c3ef9.js"
   },
   {
     "revision": "22970be367631ea11187",
@@ -440,11 +440,11 @@ self.__precacheManifest = [
     "url": "/img/wrestler_model.56b81865.png"
   },
   {
-    "revision": "9844c40c12704d2af0eb30f3113bfe81",
+    "revision": "9dc2d8f61a225755196d4298e70ba4c9",
     "url": "/index.html"
   },
   {
-    "revision": "b9a40cb40c4635a772ac",
+    "revision": "360ea324c7a23158b175",
     "url": "/css/app.608f4e53.css"
   },
   {
