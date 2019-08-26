@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.94bc79fb7eda09a07bb5f8d22f294926.js"
+  "/precache-manifest.a4a962e45d663801f017481cf320c180.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "website-vue"});
+workbox.core.setCacheNameDetails({prefix: "richard-kneale-website"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
