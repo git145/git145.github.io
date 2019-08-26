@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1fe77411f2a05a99503c21085349fb54.js"
+  "/precache-manifest.3cfd2927f683f32eed645407b921b8bf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "richard-kneale-portfolio"});

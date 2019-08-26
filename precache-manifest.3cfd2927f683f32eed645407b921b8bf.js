@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/img/temple_day.a678a2ba.png"
   },
   {
-    "revision": "37740d0352742c75a2fbd040afcc20e2",
+    "revision": "655f9ac8b74f7511cdd5d68213d3d4d2",
     "url": "/index.html"
   },
   {
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/img/spider_body_001.de70dd66.png"
   },
   {
-    "revision": "eb959e578e6a473920d3",
+    "revision": "e0442dd28fdd7f2cc60e",
     "url": "/js/app.49a2fe93.js"
   },
   {
@@ -444,8 +444,8 @@ self.__precacheManifest = [
     "url": "/img/a_j_styles.f68c9fbe.png"
   },
   {
-    "revision": "eb959e578e6a473920d3",
-    "url": "/css/app.26e22215.css"
+    "revision": "e0442dd28fdd7f2cc60e",
+    "url": "/css/app.55dfa3a3.css"
   },
   {
     "revision": "e0bf1e3219a32f14c60aafe5ed305aa5",
